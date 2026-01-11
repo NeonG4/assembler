@@ -209,5 +209,5 @@ HALT
 - `INC3` only increments **r3**  
 - `DRAW` requires three registers  
 - `JMP` and `JZ` are pseudo‑instructions (6 bytes each)  
-
+- It's important to note that the screen is 60x45 pixels, with 256 different colors
 ---
