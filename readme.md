@@ -211,5 +211,3 @@ HALT
 - `JMP` and `JZ` are pseudo‑instructions (6 bytes each)  
 
 ---
-
-**End of ISA Document**
